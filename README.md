@@ -125,7 +125,7 @@ Other targets:
 
 ```bash
 make demo         # narrated terminal walkthrough of a real detected ring
-make test         # 85 tests, ~25 s
+make test         # 83 tests, ~25 s
 make evaluate     # regenerate every number quoted above
 make submission   # rebuild the report (PDF/DOCX) and the deck (PPTX/PDF)
 ```
