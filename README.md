@@ -319,7 +319,7 @@ from the code. The dashboard screenshots are captured from the running app.
 | Kartik Jain | `0246AL241094` |
 
 CyberShield Hackathon 2026 · Problem Statement 2 · in association with Bank of
-India and IIT Hyderabad.
+India(BOI) and IIT Hyderabad.
 
 ## Limitations
 
