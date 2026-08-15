@@ -309,7 +309,7 @@ from the code. The dashboard screenshots are captured from the running app.
 
 ## Team
 
-**Team BODHI**
+**Team BODHI NEXUS**
 
 | Name | Enrolment number |
 |---|---|
