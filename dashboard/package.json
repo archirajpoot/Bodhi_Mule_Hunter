@@ -1,0 +1,13 @@
+{
+  "name": "bodhi-dashboard",
+  "version": "1.0.0",
+  "description": "BODHI Mule Hunter AI - Frontend Dashboard with API proxy",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.0",
+    "http-proxy-middleware": "^3.0.0"
+  }
+}
