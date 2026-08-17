@@ -307,20 +307,6 @@ Both documents are generated from `artifacts/metrics/evaluation.json` by
 `make submission`, so no number in them is typed by hand and they cannot drift
 from the code. The dashboard screenshots are captured from the running app.
 
-## Team
-
-**Team BODHI NEXUS**
-
-| Name | Enrolment number |
-|---|---|
-| Akshay Tiwari | `0246CS241037` |
-| Palak Vishwakarma | `0246AL241124` |
-| Archi Singh Rajput | `0246CS240174` |
-| Kartik Jain | `0246AL241094` |
-
-CyberShield Hackathon 2026 · Problem Statement 2 · in association with Bank of
-India(BOI) and IIT Hyderabad.
-
 ## Limitations
 
 Stated plainly in [`docs/MODEL_CARD.md`](docs/MODEL_CARD.md). The important
